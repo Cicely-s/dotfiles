@@ -52,3 +52,6 @@ export PATH="$PATH:$HOME/.rvm/bin"
 
 # bashをvi仕様に
 export EDITOR=vim
+
+# lsに色を付ける
+alias ls="ls --color=auto"
